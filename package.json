@@ -8,5 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "ava": "^0.25.0"
+  },
+  "devDependencies": {
+    "module-alias": "^2.1.0"
   }
 }
